@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.big-latter {
+    font-size: 40px;
+}
+
+.blue-highlight {
+    color: rgba(31, 31, 177, 0.699);
+    font-weight: 900px;
+}
+
+.noDec {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(30deg, rgba(48, 58, 202, 0.527), rgba(68, 23, 153, 0.87));
+    border-radius: 10px;
+    font-weight: 700px;
+    color: white;
+}
+
+section {
+    height: 500px;
+    padding bottom: 300px;
+}
+
+.half-width {
+    width: 40%;
+    padding-left: 5%;
+    margin-left: 2%;
+    text-align: justify;
+    float: left;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.bg-1 {
+    background-image: url("Images/Bannar\ top.png");
+    background-repeat: no-repeat;
+}
+
+#network-exp {
+    border-left: 5px solid;
+    border-image: linear-gradient(170deg, rgba(0, 0, 255, 0.685), rgba(0, 255, 255, 0.678));
+    border-image-slice: 1;
+}
+
+#baby-web {
+    border-left: 5px solid;
+    border-image: linear-gradient(170deg, rgba(255, 160, 122, 0.671), rgba(255, 99, 71, 0.582));
+    border-image-slice: 1;
+}
+
+.box-shadow {
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 70%;
+    background-color: white;
+}
+
+.bg-2 {
+    background-image: url("Images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.bg-3 {
+    background-image: url("Images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+
+}
